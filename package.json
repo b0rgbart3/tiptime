@@ -1,0 +1,19 @@
+{
+  "name": "tiptime",
+  "version": "1.0.0",
+  "description": "quick and easy app to calculate restaurant tips",
+  "main": "readme_builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tips",
+    "calculator",
+    "simple"
+  ],
+  "author": "Bart Dority",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
